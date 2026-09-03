@@ -1,16 +1,20 @@
 # House-Price-Prediction
-This project predicts houses prices using machine learning
-## Models used
-- Linear regression
-- Decision tree regression
-- Random Forest regression
+
+This project predicts house prices using machine learning.
+
+## Models Used
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
+
 ## Features
 - Average Area Income
 - Average Area House Age
 - Average Area Number of Rooms
 - Average Area Number of Bedrooms
 - Area Population
-## Technologis used
+
+## Technologies Used
 - Python
 - Pandas
 - NumPy
